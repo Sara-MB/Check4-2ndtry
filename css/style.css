@@ -1,0 +1,88 @@
+* {margin: 0; padding:0; border:0; font-size: 100% }	
+.Header {
+	background-image: url("../images/background2.jpg");
+	background-size: 100%;
+	background-color: #cccccc;
+}	
+.Header h1{
+	font-size: 60px;
+	font-family:'Courgette', cursive;
+    padding-top: 1em;
+	text-align: center;
+}	
+.Header p{
+	font-size: 15px;
+	font-family: 'Courgette', cursive;;
+	font-style: italic;
+	text-align: center;
+	padding-top: 1em;
+}	
+.Header ul{
+	display: flex;
+	box-sizing: border-box;
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	align-items: center;
+	list-style: none;
+	padding: 1em 0em 2em 32em
+	
+}	
+.Header li a{
+	text-align: center;
+	padding: 0px 20px;
+    transition: all 0.3s ease 0s;
+	color: black;
+	
+}
+	
+.First {
+    margin: 0px 200px 0px 0px; 
+	font-size: 36px;
+    background-color: antiquewhite;
+	font-family: 'Roboto', sans-serif;
+}	
+
+.First p {
+     color: black;
+	 margin: 20px 10px 20px 10px;
+     font-family:  'Roboto', sans-serif;
+	 font-size: 18px;
+	 text-align: left;
+	 background-color: white;
+	 padding: 2em
+    
+}
+
+.Side {
+    float:right;
+	display: inline-block;
+	min-height: 340px;
+    font-size: 18px;
+	color: black;
+	background-color: gainsboro;
+	padding: 1em;
+	border: 2px dotted white;
+	width: 200px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Side h2{
+    font-size: 22px;
+	padding: 0em 0em 1em 0em;
+
+}
+.Side ul{
+    font-size: 18px;
+	padding: 1em 0em 1em 2em;
+	
+}
+
+#my-id_2 {
+    border: 18px solid white;
+    padding: 10em 0em 2em 0em;
+    color: black;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+

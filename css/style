@@ -1,0 +1,23 @@
+@charset "utf-8"
+.my-class {
+    color: black;
+    border: 1px solid darkgray;
+    background-color: lightgray;
+
+    padding: 0.5em;
+    text-align: center;
+}
+#my-id {
+    border: 1px dotted darkgray;
+    padding: 0.5em;
+    color: blue;
+    text-align: left;
+    background-color: lightgray
+}
+#my-id_2 {
+     border: 8px solid darkgray;
+     padding: 15px 2px 15px 2px;
+     color: blue;
+     background-color: lightgray;
+     text-align: left;
+}
